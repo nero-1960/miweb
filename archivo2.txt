@@ -1,2 +1,0 @@
-"Adios Mundo";
-"Actualizando el archivo 2"
